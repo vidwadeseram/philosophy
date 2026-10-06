@@ -1,0 +1,1 @@
+I fear nothing, welcomes death like a madman yet not dead, still in the race even when everyone gets the trophy for participating, my justification is that it’s a cancelled subscription and it’s a waste to not use the time left
