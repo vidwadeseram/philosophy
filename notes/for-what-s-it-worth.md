@@ -1,3 +1,5 @@
+# For what’s it worth 
+
 Have I mattered, will I matter, just like Icarus did I can try to reach the sun and as he did I may fall maybe I will be happy for a while but was it of any consequence, for the sun I was less than a moth to a lamp. I could struggle like sisyphus I could push the boulder but mountain will not care.
 
 Survive, thrive or fall those are the only options but non are of consequence. Even the greatest of us are remembered 2000 years or less mostly the greeks of old but there were more before but we have forgotten. 
