@@ -8,10 +8,16 @@
       "content": "Hi",
       "timestamp": 1791446415128,
       "attachedContexts": []
+    },
+    {
+      "id": "dc6f292f-b618-403d-ae08-8ad8fd47be30",
+      "role": "assistant",
+      "content": "<think>\nThe user is saying hi. I should greet them and offer to help them with their notes and todos. I can see from the current state that they have 3 notes and 0 todos. I should let them know I'm here to help.\n</think>\n\nHi there! 👋 I'm GitNotes AI, here to help you manage your notes and todos.\n\nYou currently have **3 notes** and **0 todos** in your workspace.\n\nHere's what I can help you with:\n\n- **Notes**: Create, edit, search, delete, summarize, or link notes\n- **Todos**: Create, edit, complete, or search tasks\n- **Quizzes**: Create practice quizzes and grade your answers\n- **Reminders**: Set reminders to revisit notes or tasks\n- **GitHub**: View repos, issues, and pull requests\n- **Daily Briefs**: Generate a summary of your day\n\nWhat would you like to do today?",
+      "timestamp": 1791446418093
     }
   ],
   "createdAt": 1791446410867,
-  "updatedAt": 1791446415128,
+  "updatedAt": 1791446425247,
   "repoOwner": "vidwadeseram",
   "repoName": "philosophy",
   "branch": "main",
