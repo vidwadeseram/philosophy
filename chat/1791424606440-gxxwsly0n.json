@@ -1,0 +1,19 @@
+{
+  "id": "1791424606440-gxxwsly0n",
+  "title": "Hi",
+  "messages": [
+    {
+      "id": "00d941ed-15c0-4523-86b7-2056a6a5b6bc",
+      "role": "user",
+      "content": "Hi",
+      "timestamp": 1791424609093,
+      "attachedContexts": []
+    }
+  ],
+  "createdAt": 1791424606440,
+  "updatedAt": 1791424609093,
+  "repoOwner": "vidwadeseram",
+  "repoName": "philosophy",
+  "branch": "main",
+  "filePath": "chats/1791424606440.json"
+}
