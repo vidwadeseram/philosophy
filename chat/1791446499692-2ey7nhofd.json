@@ -14,10 +14,17 @@
       "role": "assistant",
       "content": "<think>\nThe user is saying \"Hi\" - a simple greeting. I should respond in a friendly, helpful manner and let them know what I can help with.\n</think>\n\nHi there! 👋 I'm GitNotes AI, here to help you manage your notes and todos.\n\nHere's what I can do for you:\n\n**Notes:**\n- Create, edit, search, and delete notes\n- Organize with tags and formats (Markdown, Neorg, Org)\n- Summarize multiple notes together\n- Create quizzes/tests for studying\n- Distill thought dumps into clean notes\n\n**Todos:**\n- Create and manage tasks with priorities and due dates\n- Set reminders\n- Track completion status\n\n**GitHub Integration:**\n- View and create issues/PRs\n- Review pull requests\n- List repositories\n\n**Reminders:**\n- Set reminders for notes, folders, repos, or tags\n\nYou currently have **3 notes** and **0 todos**.\n\nHow can I help you today?",
       "timestamp": 1791446505437
+    },
+    {
+      "id": "51a4fc25-3e7f-4823-b5a9-580c66d6d3e3",
+      "role": "user",
+      "content": "So how are you",
+      "timestamp": 1791446611031,
+      "attachedContexts": []
     }
   ],
   "createdAt": 1791446499692,
-  "updatedAt": 1791446510949,
+  "updatedAt": 1791446611031,
   "repoOwner": "vidwadeseram",
   "repoName": "philosophy",
   "branch": "main",
