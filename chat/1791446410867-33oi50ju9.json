@@ -1,0 +1,19 @@
+{
+  "id": "1791446410867-33oi50ju9",
+  "title": "Hi",
+  "messages": [
+    {
+      "id": "9a3d26d6-d0b2-488c-96f1-f1bd5d7e4261",
+      "role": "user",
+      "content": "Hi",
+      "timestamp": 1791446415128,
+      "attachedContexts": []
+    }
+  ],
+  "createdAt": 1791446410867,
+  "updatedAt": 1791446415128,
+  "repoOwner": "vidwadeseram",
+  "repoName": "philosophy",
+  "branch": "main",
+  "filePath": "chats/1791446410867.json"
+}
