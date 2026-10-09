@@ -1,0 +1,19 @@
+{
+  "id": "1791511951394-u98ffginv",
+  "title": "So how are you",
+  "messages": [
+    {
+      "id": "dd9580fe-ee21-4a5e-a26b-43360a273fc6",
+      "role": "user",
+      "content": "So how are you",
+      "timestamp": 1791511965173,
+      "attachedContexts": []
+    }
+  ],
+  "createdAt": 1791511951394,
+  "updatedAt": 1791511965173,
+  "repoOwner": "vidwadeseram",
+  "repoName": "philosophy",
+  "branch": "main",
+  "filePath": "chats/1791511951394.json"
+}
