@@ -1,25 +1,3 @@
 {
-  "threads": [
-    {
-      "id": "1791446499692-2ey7nhofd",
-      "title": "Hi",
-      "updatedAt": 1791446611031,
-      "messageCount": 3,
-      "preview": "So how are you"
-    },
-    {
-      "id": "1791446410867-33oi50ju9",
-      "title": "Hi",
-      "updatedAt": 1791446415128,
-      "messageCount": 1,
-      "preview": "Hi"
-    },
-    {
-      "id": "1791424606440-gxxwsly0n",
-      "title": "Hi",
-      "updatedAt": 1791443555893,
-      "messageCount": 12,
-      "preview": "Here are your notes in full"
-    }
-  ]
+  "threads": []
 }
