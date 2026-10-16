@@ -1,0 +1,29 @@
+{
+  "id": "1792149369062-3ko04sjxt",
+  "title": "Tell me of the repo",
+  "messages": [
+    {
+      "id": "ebfc921a-b864-4b8b-b87b-914090e416b1",
+      "role": "user",
+      "content": "Tell me of the repo",
+      "timestamp": 1792149384507,
+      "attachedContexts": [
+        {
+          "type": "repo",
+          "owner": "vidwadeseram",
+          "repo": "gitnotes",
+          "path": "skepjandi/gitnotes",
+          "name": "gitnotes",
+          "branch": "main",
+          "approxBytes": 30715
+        }
+      ]
+    }
+  ],
+  "createdAt": 1792149369062,
+  "updatedAt": 1792149384507,
+  "repoOwner": "vidwadeseram",
+  "repoName": "philosophy",
+  "branch": "main",
+  "filePath": "chats/1792149369062.json"
+}
